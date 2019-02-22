@@ -7,6 +7,12 @@ The final service must:
   * `not have single points of failure`
   * provide an `overview of the state` of the infrastructure and services provided
 
+## Contributors
+
+* [Hugo Oliveira](https://github.com/oliveirahugo68)
+* [João Vieira](https://github.com/JoaoVieira97)
+* [Raphael Oliveira](https://github.com/raphael28)
+
 ## Main used applications
 
   * [VMware](https://www.vmware.com/)
