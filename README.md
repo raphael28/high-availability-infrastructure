@@ -1,5 +1,7 @@
 # High Availability Infrastructure
 
+Data Center Infrastructure Project 2019/20, Computer and Software Engineering Course @ University of Minho, Braga - Portugal
+
 The main goal of this project is the implementation of a high scalable infrastructure telemetry service.
 
 The final service must:
@@ -7,13 +9,13 @@ The final service must:
   * `not have single points of failure`
   * provide an `overview of the state` of the infrastructure and services provided
 
-## Contributors
+## Final Infrastructure 
 
-* [Hugo Oliveira](https://github.com/oliveirahugo68)
-* [João Vieira](https://github.com/JoaoVieira97)
-* [Raphael Oliveira](https://github.com/raphael28)
+<p align="center">
+  <img src="https://github.com/oliveirahugo68/high-availability-infrastructure/blob/master/structure.png" alt="Final Infrastructure" width="600" />
+</p>
 
-## Main used applications
+### Applications used
 
   * [VMware](https://www.vmware.com/)
   * [collectd](https://collectd.org)
@@ -21,16 +23,13 @@ The final service must:
   * [Grafana](https://grafana.com/)
 
 
-## Final Infrastructure 
+### Contributors
+
+* [Hugo Oliveira](https://github.com/oliveirahugo68)
+* [João Vieira](https://github.com/JoaoVieira97)
+* [Raphael Oliveira](https://github.com/raphael28)
 
 
 
-<p align="center">
-  <img src="https://github.com/oliveirahugo68/high-availability-infrastructure/blob/master/structure.png" alt="Final Infrastructure" width="600" />
-</p>
 
 
-<br >
-<br >
-
-`Data Center Infrastructure` Project 2019/20, Computer and Software Engineering Course @ University of Minho, Braga - Portugal
