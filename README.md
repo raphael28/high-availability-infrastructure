@@ -1,6 +1,6 @@
 # High Availability Infrastructure
 
-Data Center Infrastructure Project 2019/20, Computer and Software Engineering Course @ University of Minho, Braga - Portugal
+Data Center Infrastructure Project 2018/19, Computer and Software Engineering Course @ University of Minho, Braga - Portugal
 
 The main goal of this project is the implementation of a high scalable infrastructure telemetry service.
 
@@ -22,12 +22,34 @@ The final service must:
   * [graphite](http://graphiteapp.org)
   * [Grafana](https://grafana.com/)
 
+## Contributors
 
-### Contributors
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/oliveirahugo68">
+        <img src="https://avatars3.githubusercontent.com/u/29900750?s=460&v=4" width="100px;" alt="Hugo Oliveira"/>
+        <br />
+        <sub><b>Hugo Oliveira</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/raphael28">
+        <img src="https://avatars2.githubusercontent.com/u/43729094?s=460&v=4" width="100px;" alt="Raphael Oliveira"/>
+        <br />
+        <sub><b>Raphael Oliveira</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JoaoVieira97">
+        <img src="https://avatars2.githubusercontent.com/u/34378224?s=460&v=4" width="100px;" alt="João Vieira"/>
+        <br />
+        <sub><b>João Vieira</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-* [Hugo Oliveira](https://github.com/oliveirahugo68)
-* [João Vieira](https://github.com/JoaoVieira97)
-* [Raphael Oliveira](https://github.com/raphael28)
 
 
 
